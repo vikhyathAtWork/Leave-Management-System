@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="accrued" label="Accrued" language="en" table="x_820094_leave_man_leave_bucket">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>accrued</element>
+            <help/>
+            <hint/>
+            <label>Accrued</label>
+            <language>en</language>
+            <name>x_820094_leave_man_leave_bucket</name>
+            <plural>Accrued</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 04:43:24</sys_created_on>
+            <sys_id>d249c0b7c3201110648a2e5ce0013181</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Accrued</sys_name>
+            <sys_package display_value="Leave Management System" source="x_820094_leave_man">ded54873c3201110648a2e5ce00131bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">ded54873c3201110648a2e5ce00131bc</sys_scope>
+            <sys_update_name>sys_documentation_x_820094_leave_man_leave_bucket_accrued_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 04:43:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
